@@ -16,5 +16,10 @@ int main()
         case 6: grade = 'D';
         break;
         default : grade ='F';
+        break;
+        case 4: grade = 'G';
+        break; 
     }printf("Grade is : %c", grade);
 }
+
+//PHOMMASENG EKALAT CNTT K64 DHQB VIETNAM
